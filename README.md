@@ -1,0 +1,1 @@
+# mscfront-events
